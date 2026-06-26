@@ -108,7 +108,7 @@ const menuItems = [
   { nameAr:"عصير بطيخ", nameEn:"Watermelon Juice", price:4000, category:"juices", image:"" },
   { nameAr:"عصير كوكتيل", nameEn:"Cocktail Juice", price:4000, category:"juices", image:"" },
 
-  { nameAr:"فراولة", nameEn:"Strawberry", price:5000, category:"shakes", image:"" },
+  { nameAr:"فراولة", nameEn:"Strawberry", price:5000, category:"shakes", image:"C:\Users\Penny\Pictures\1" },
   { nameAr:"نوتيلا", nameEn:"Nutella", price:5000, category:"shakes", image:"" },
   { nameAr:"اوريو", nameEn:"Oreo", price:5000, category:"shakes", image:"" },
   { nameAr:"كندر", nameEn:"Kinder", price:5000, category:"shakes", image:"" },
