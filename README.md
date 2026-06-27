@@ -86,10 +86,12 @@ const menuItems = [
   { nameAr:"ماء", nameEn:"Water", price:500, category:"cold", image:"imeges/1 (9).jpg" },
   { nameAr:"كولا / سبرايت / فانتا", nameEn:"Cola / Sprite / Fanta", price:1000, category:"cold", image:"imeges/1 (15).jpg" },
   { nameAr:"مشروب طاقة", nameEn:"Energy Drink", price:2000, category:"cold", image:"imeges/1 (13).jpg" },
-  { nameAr:"موهيتو بلو هواي", nameEn:"Blue Hawaii Mojito", price:4000, category:"cold", image:"" },
-  { nameAr:"موهيتو فراولة", nameEn:"Strawberry Mojito", price:4000, category:"cold", image:"" },
-  { nameAr:"آيس كوفي", nameEn:"Iced Coffee", price:4000, category:"cold", image:"" },
-
+  { nameAr:"موهيتو بلو هواي", nameEn:"Blue Hawaii Mojito", price:3000, category:"cold", image:"" },
+  { nameAr:"موهيتو فراولة", nameEn:"Strawberry Mojito", price:3000, category:"cold", image:"" },
+  { nameAr:"موهيتو ليمون والنعناع", nameEn:"Lemon And Mint Mojito", price:3000, category:"cold", image:"" },
+  { nameAr:"آيس كوفي", nameEn:"Iced Coffee", price:3000, category:"cold", image:"" },
+  { nameAr:"آيس أمريكانو", nameEn:"Iced Americano", price:3000, category:"cold", image:"" },
+  
   { nameAr:"شاي", nameEn:"Tea", price:500, category:"hot", image:"imeges/1 (1).jpg" },
   { nameAr:"قهوة", nameEn:"Coffee", price:2000, category:"hot", image:"" },
   { nameAr:"كابتشينو", nameEn:"Cappuccino", price:3000, category:"hot", image:"" },
