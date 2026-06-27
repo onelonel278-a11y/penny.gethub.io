@@ -121,14 +121,14 @@ const menuItems = [
   { nameAr:"بان كيك كندر", nameEn:"Kinder Pancake", price:5000, category:"pancake", image:"New folder/sweets/3.jpg" },
   { nameAr:"بان كيك لوتس", nameEn:"Lotus Pancake", price:5000, category:"pancake", image:"New folder/sweets/4.jpg" },
 
-  { nameAr:"كريب نوتيلا", nameEn:"Nutella Crepe", price:5000, category:"crepe", image:"New folder/sweets/5.jpgNew folder/sweets/5.jpg" },
+  { nameAr:"كريب نوتيلا", nameEn:"Nutella Crepe", price:5000, category:"crepe", image:"New folder/sweets/5.jpg" },
   { nameAr:"كريب اوريو", nameEn:"Oreo Crepe", price:5000, category:"crepe", image:"New folder/sweets/6.jpg" },
-  { nameAr:"كريب كندر", nameEn:"Kinder Crepe", price:5000, category:"crepe", image:"" },
+  { nameAr:"كريب كندر", nameEn:"Kinder Crepe", price:5000, category:"crepe", image:"New folder/sweets/111111.jpg" },
   { nameAr:"كريب لوتس", nameEn:"Lotus Crepe", price:5000, category:"crepe", image:"New folder/sweets/8.jpg" },
 
   { nameAr:"وافل نوتيلا", nameEn:"Nutella Waffle", price:5000, category:"waffle", image:"New folder/sweets/9.jpg" },
   { nameAr:"وافل اوريو", nameEn:"Oreo Waffle", price:5000, category:"waffle", image:"New folder/sweets/12.jpg" },
-  { nameAr:"وافل كندر", nameEn:"Kinder Waffle", price:5000, category:"waffle", image:"" },
+  { nameAr:"وافل كندر", nameEn:"Kinder Waffle", price:5000, category:"waffle", image:"New folder/sweets/222222.jpg" },
   { nameAr:"وافل لوتس", nameEn:"Lotus Waffle", price:5000, category:"waffle", image:"New folder/sweets/10.jpg" },
   { nameAr:"وافل ستيك", nameEn:"Waffle Stick", price:5000, category:"waffle", image:"New folder/sweets/11.jpg" },
 
