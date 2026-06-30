@@ -91,6 +91,8 @@ const menuItems = [
   { nameAr:"موهيتو ليمون والنعناع", nameEn:"Lemon And Mint Mojito", price:3000, category:"cold", image:"New folder/ice cold  hot drinks/photo_2026-06-27_08-59-53.jpg" },
   { nameAr:"آيس كوفي", nameEn:"Iced Coffee", price:3000, category:"cold", image:"New folder/ice cold  hot drinks/photo_2026-06-27_08-59-10.jpg" },
   { nameAr:"آيس أمريكانو", nameEn:"Iced Americano", price:3000, category:"cold", image:"New folder/ice cold  hot drinks/photo_2026-06-27_08-59-20.jpg" },
+  { nameAr:"سلاشي مكس توت", nameEn:"mix berries slushie", price:3000, category:"cold", image:"New folder/ice cold  hot drinks/photo_2026-06-27_08-59-20.jpg" },
+  { nameAr:"سلاشي كيوي", nameEn:"kiwi slushie", price:3000, category:"cold", image:"New folder/ice cold  hot drinks/photo_2026-06-27_08-59-20.jpg" },
   
   { nameAr:"شاي", nameEn:"Tea", price:500, category:"hot", image:"New folder/hot drinks/1.jpg" },
   { nameAr:"قهوة", nameEn:"Coffee", price:2000, category:"hot", image:"New folder/hot drinks/2.jpg" },
